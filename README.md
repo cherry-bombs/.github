@@ -1,4 +1,4 @@
-If you are new to the project, please know the following information: Kayo is our team lead, please direct questions there; Kotlin is our main programming language; Android Studio is our recommended IDE.
+If you are new to the project, please know the following information: Kayo is our coding lead, please direct questions there; Kotlin is our main programming language; Android Studio is our recommended IDE.
 
 Linux
 ```zsh
